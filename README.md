@@ -7,7 +7,7 @@
 - Arriaga Calderón Cesar Alejandro.
 - Martínez Martínez Carlos Manuel , [@Manue1Mart1nez26](https://github.com/Manue1Mart1nez26).
 - Ramirez Valdez Brandon Omar, [@Brandios02](https://github.com/Brandios02).
-- Silva de León Carlos juventino.
+
 - Torres Quiroga joshua jamir, [@josh22000](https://github.com/josh22000).
 
 
